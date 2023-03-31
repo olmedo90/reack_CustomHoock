@@ -1,12 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
 import ComponetDev1 from './components/Componet.dev1';
+import ComponetDev2 from './components/ComponetDev2';
 
 function App() {
   return (
     <div className="App">
 
       <ComponetDev1/>
+      <ComponetDev2/>
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
